@@ -11,6 +11,6 @@ I made a test page so you can try it yourself:
 
 It's strongest in the P3 S100 row and also clear in sRGB S100. Screenshots won't show Night Shift. To capture it, take a photo, ideally with a second device in the same shot.
 
-If you can reproduce it, please file a report at https://feedbackassistant.apple.com/ (there's copyable text on the page) and open an issue here with your device, iOS build and whether True Tone is on. The more reports, the better the chance Apple actually fixes it.
+If you can reproduce it, please file a report at https://feedbackassistant.apple.com/ (there's copyable text on the page) and open an issue here with your device, iOS build and whether True Tone is on. The more reports, the better the chance Apple actually fixes it. My report is FB25121206, feel free to reference it.
 
-Also discussed in this [Reddit thread](https://www.reddit.com/r/iphone18pro/comments/1wlayj9/light_orangepinkish_night_shift_hue/).
+Also discussed in this [Reddit thread](https://www.reddit.com/r/iphone18pro/comments/1wlayj9/light_orangepinkish_night_shift_hue/) and on [MacRumors](https://forums.macrumors.com/threads/night-shift-turns-red-and-orange-pink-on-the-screen-test-page.2491368/).
